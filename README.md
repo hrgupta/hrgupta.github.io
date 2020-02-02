@@ -1,6 +1,6 @@
 # Home
 
-This website contains all my project files and course submissions.
+Here you will find projects that I have worked on previously and also some of the assignments I have submitted as part of my academic coursework.
 
 **Projects**
 

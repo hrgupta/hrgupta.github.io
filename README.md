@@ -14,6 +14,6 @@ IS590ADV - Advanced Data Visualization
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hrgupta/Advanced-Data-Visualization/master?filepath=Code%2FAssignment_1%20-%20Hisss%20Game%20Visualization.ipynb)
 
-1. Spacial Representation comparison. 
+2. Spacial Representation comparison. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hrgupta/Advanced-Data-Visualization/master?filepath=Code%2FAssignment_2%20-%20Spatial%20Representation%20Comparison.ipynb)

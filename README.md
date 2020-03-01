@@ -1,5 +1,3 @@
-# Home
-
 This websites contains all my previous projects, assignments, notes and all the stuff I find useful to me. I will also share my views and thoughts on things I find meaningful and important for me and society.
 
 

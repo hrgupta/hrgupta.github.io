@@ -1,14 +1,14 @@
 # Home
 
-This websites contains all my previous projects, assignments, notes and all the stuff I find useful to me. As I am planning to 
+This websites contains all my previous projects, assignments, notes and all the stuff I find useful to me. I will also share my views and thoughts on things I find meaningful and important for me and society.
+
 
 **Projects**
 
 1. [Yelp dataset Visualization](https://hrgupta.github.io/yelp-dataset-visualization/)
 
-**Assignments**
 
-IS590ADV - Advanced Data Visualization
+**Assignments**
 
 1. Hisss Game Visualization using matplotlib. 
 

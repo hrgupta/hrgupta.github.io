@@ -22,7 +22,7 @@ Along with being a tech professional ✨ I have varied interests 👀 (business,
 
 ## Curriculum Vitae
 
-If you want a more formal *about me* introduction which I feel is less interesting, grab my [Curriculum Vitae]({{ site.baseurl }}/assets/hrgupta-cv.pdf).
+If you want a more formal *about me* introduction which I feel is less interesting, grab my [Curriculum Vitae]({{ site.baseurl }}/assets/cv.pdf).
 
 <em>Thank you for your time</em> <img src="{{ site.baseurl }}/assets/img/wink.png" class="emoji left">
 

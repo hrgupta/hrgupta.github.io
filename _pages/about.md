@@ -16,7 +16,7 @@ permalink: /about/
 </figure>
 {:/}
 
-Along with being a tech professional ✨ I have varied interests 👀 (business, technology, design, philosophy)💯. I like to read and keep me informed about a lot of stuff since I have a voracious appetite to know about many things. I am currently focusing on NLP techniques as I am using it currently at my job. ✌️ I want to dive deep into other fields of ML as well such as *Reinforcement Learning* which I hope to soon * *fingers crossed* *.
+Along with being a tech professional ✨ I have varied interests 👀 (business, technology, design, philosophy)💯. I like to read and keep me informed about a lot of stuff since I have a voracious appetite to know about many things. I am currently focusing on NLP techniques as I am using it currently at my job. ✌️ I want to dive deep into other fields of ML as well such as *Reinforcement Learning* which I hope to soon *fingers crossed*.
 
 ---
 
